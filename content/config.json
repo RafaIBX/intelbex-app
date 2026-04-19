@@ -1,0 +1,18 @@
+{
+      "hero": {
+          "video": "/content/hero.mp4",
+              "poster": ""
+                },
+                  "qr": "/content/qr.png",
+                    "logos": {
+                        "wordmarkWhite": "/content/logos/wordmark-white.svg",
+                            "wordmarkBlack": "/content/logos/wordmark-black.svg",
+                                "markOnly": "/content/logos/mark-only.svg"
+                                  },
+                                    "pdfs": {
+                                        "corporate": "/content/pdfs/corporate.pdf",
+                                            "services": "/content/pdfs/services.pdf",
+                                                "onepager": "/content/pdfs/onepager.pdf"
+                                                  }
+                                                  }
+}
