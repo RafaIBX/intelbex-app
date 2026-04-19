@@ -17,7 +17,7 @@ import {
   Zap,
   LineChart,
   ShieldCheck,
-  ChevronsDown
+  ChevronsDown,
   Save,
   Settings,
   Send,
