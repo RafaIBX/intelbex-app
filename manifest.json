@@ -1,14 +1,14 @@
 {
   "name": "Intelbex",
   "short_name": "Intelbex",
-  "description": "Business strategy and digital execution.",
-  "start_url": "./",
+  "start_url": "/intelbex-app/",
+  "scope": "/intelbex-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0F1E4D",
   "theme_color": "#294CCC",
   "icons": [
-    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "/intelbex-app/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/intelbex-app/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
