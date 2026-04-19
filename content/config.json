@@ -1,13 +1,13 @@
 {
   "heroVideo": "/content/hero.mp4",
   "heroPoster": "",
-  "logoWhite": "/content/logos/wordmark-white.svg",
-  "logoBlack": "/content/logos/wordmark-black.svg",
-  "logoMark": "/content/logos/mark-only.svg",
+  "logoWhite": "content/logos/Intelbex_Seconday-Horizontal.svg",
+  "logoBlack": "content/logos/Intelbex_Black-Horizontal.svg",
+  "logoMark": "icons/Intelbex_Main-Icon.svg",
   "qrCode": "/content/qr.png",
-  "heroTagline": "A click away.",
-  "tagline": "Business strategy. Digital execution.",
-  "heroSubtitle": "Precision tools and systems for modern companies.",
+  "heroTagline": "The Systems Behind Strategy",
+  "tagline": "A Business Strategy & Digital Execution Firm",
+  "heroSubtitle": "We align business strategy, technology, and execution — so leadership decisions become operational reality.\n",
   "industries": [
     "Manufacturing",
     "Government",
@@ -19,11 +19,11 @@
   "formEnabled": true,
   "vcard": {
     "name": "Intelbex, Corp.",
-    "founder": "Rafa Sánchez",
+    "founder": "Rafael Sánchez",
     "title": "Founder & Principal",
-    "email": "rafa@intelbex.com",
-    "phone": "+1 (787) 000-0000",
-    "website": "contact.intelbex.com",
+    "email": "rafael@intelbex.com",
+    "phone": "+1 (939) 403-6095",
+    "website": "www.intelbex.com",
     "location": "San Juan, Puerto Rico"
   },
   "services": [
@@ -49,9 +49,9 @@
     }
   ],
   "documents": {
-    "corporate": "/content/pdfs/corporate.pdf",
+    "corporate": "content/pdfs/Intelbex_Corporate_Presentation.pdf",
     "services": "/content/pdfs/services.pdf",
-    "onePager": "/content/pdfs/onepager.pdf"
+    "onePager": "content/pdfs/One_Pager_Intelbex.pdf"
   },
   "documentsMeta": {
     "corporate": {
