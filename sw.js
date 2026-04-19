@@ -1,4 +1,4 @@
-const CACHE_NAME = 'intelbex-v2';
+const CACHE_NAME = 'intelbex-v3';
 
 const SHELL = [
   '/intelbex-app/',
