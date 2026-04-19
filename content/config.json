@@ -8,9 +8,14 @@
   "heroTagline": "A click away.",
   "tagline": "Business strategy. Digital execution.",
   "heroSubtitle": "Precision tools and systems for modern companies.",
-  "industries": ["Manufacturing", "Government", "Retail", "Professional Services"],
+  "industries": [
+    "Manufacturing",
+    "Government",
+    "Retail",
+    "Professional Services"
+  ],
   "industriesLabel": "Industries we serve",
-  "formEndpoint": "",
+  "formEndpoint": "https://formspree.io/f/mgorzowk",
   "formEnabled": true,
   "vcard": {
     "name": "Intelbex, Corp.",
@@ -22,10 +27,26 @@
     "location": "San Juan, Puerto Rico"
   },
   "services": [
-    { "title": "Business Strategy", "description": "Clear positioning, pricing, and go-to-market frameworks built around how your business actually earns.", "icon": "LineChart" },
-    { "title": "Digital Execution", "description": "Websites, landing pages, and client-facing tools shipped fast without cutting corners on quality.", "icon": "Zap" },
-    { "title": "Process Automation", "description": "HubSpot, Make.com, and custom integrations that remove manual work from onboarding, sales, and ops.", "icon": "Briefcase" },
-    { "title": "Verification & Compliance", "description": "Identity, supplier, and document verification systems aligned with modern regulatory standards.", "icon": "ShieldCheck" }
+    {
+      "title": "Business Strategy",
+      "description": "Clear positioning, pricing, and go-to-market frameworks built around how your business actually earns.",
+      "icon": "LineChart"
+    },
+    {
+      "title": "Digital Execution",
+      "description": "Websites, landing pages, and client-facing tools shipped fast without cutting corners on quality.",
+      "icon": "Zap"
+    },
+    {
+      "title": "Process Automation",
+      "description": "HubSpot, Make.com, and custom integrations that remove manual work from onboarding, sales, and ops.",
+      "icon": "Briefcase"
+    },
+    {
+      "title": "Verification & Compliance",
+      "description": "Identity, supplier, and document verification systems aligned with modern regulatory standards.",
+      "icon": "ShieldCheck"
+    }
   ],
   "documents": {
     "corporate": "/content/pdfs/corporate.pdf",
@@ -33,8 +54,17 @@
     "onePager": "/content/pdfs/onepager.pdf"
   },
   "documentsMeta": {
-    "corporate": { "title": "Corporate Presentation", "size": "" },
-    "services": { "title": "Services Presentation", "size": "" },
-    "onePager": { "title": "One Pager", "size": "" }
+    "corporate": {
+      "title": "Corporate Presentation",
+      "size": ""
+    },
+    "services": {
+      "title": "Services Presentation",
+      "size": ""
+    },
+    "onePager": {
+      "title": "One Pager",
+      "size": ""
+    }
   }
 }
