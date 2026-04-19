@@ -17,7 +17,7 @@ import {
   Zap,
   LineChart,
   ShieldCheck,
-  ChevronsDown,
+  ChevronsDown
   Save,
   Settings,
   Send,
@@ -878,6 +878,13 @@ export default function App() {
   const servicesRef = useRef(null);
   const documentsRef = useRef(null);
   const contactRef = useRef(null);
+
+  useEffect(() => {
+    fetch("content/config.json")
+      .then((r) => r.json())
+      .then((data) => setConfig((prev) => ({ ...prev, ...data })))
+      .catch(() => {});
+  }, []);
 
   useEffect(() => {
     const check = () => setIsAdmin(window.location.hash === "#admin");
