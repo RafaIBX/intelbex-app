@@ -1,18 +1,40 @@
 {
-      "hero": {
-          "video": "/content/hero.mp4",
-              "poster": ""
-                },
-                  "qr": "/content/qr.png",
-                    "logos": {
-                        "wordmarkWhite": "/content/logos/wordmark-white.svg",
-                            "wordmarkBlack": "/content/logos/wordmark-black.svg",
-                                "markOnly": "/content/logos/mark-only.svg"
-                                  },
-                                    "pdfs": {
-                                        "corporate": "/content/pdfs/corporate.pdf",
-                                            "services": "/content/pdfs/services.pdf",
-                                                "onepager": "/content/pdfs/onepager.pdf"
-                                                  }
-                                                  }
+  "heroVideo": "/content/hero.mp4",
+  "heroPoster": "",
+  "logoWhite": "/content/logos/wordmark-white.svg",
+  "logoBlack": "/content/logos/wordmark-black.svg",
+  "logoMark": "/content/logos/mark-only.svg",
+  "qrCode": "/content/qr.png",
+  "heroTagline": "A click away.",
+  "tagline": "Business strategy. Digital execution.",
+  "heroSubtitle": "Precision tools and systems for modern companies.",
+  "industries": ["Manufacturing", "Government", "Retail", "Professional Services"],
+  "industriesLabel": "Industries we serve",
+  "formEndpoint": "",
+  "formEnabled": true,
+  "vcard": {
+    "name": "Intelbex, Corp.",
+    "founder": "Rafa Sánchez",
+    "title": "Founder & Principal",
+    "email": "rafa@intelbex.com",
+    "phone": "+1 (787) 000-0000",
+    "website": "contact.intelbex.com",
+    "location": "San Juan, Puerto Rico"
+  },
+  "services": [
+    { "title": "Business Strategy", "description": "Clear positioning, pricing, and go-to-market frameworks built around how your business actually earns.", "icon": "LineChart" },
+    { "title": "Digital Execution", "description": "Websites, landing pages, and client-facing tools shipped fast without cutting corners on quality.", "icon": "Zap" },
+    { "title": "Process Automation", "description": "HubSpot, Make.com, and custom integrations that remove manual work from onboarding, sales, and ops.", "icon": "Briefcase" },
+    { "title": "Verification & Compliance", "description": "Identity, supplier, and document verification systems aligned with modern regulatory standards.", "icon": "ShieldCheck" }
+  ],
+  "documents": {
+    "corporate": "/content/pdfs/corporate.pdf",
+    "services": "/content/pdfs/services.pdf",
+    "onePager": "/content/pdfs/onepager.pdf"
+  },
+  "documentsMeta": {
+    "corporate": { "title": "Corporate Presentation", "size": "" },
+    "services": { "title": "Services Presentation", "size": "" },
+    "onePager": { "title": "One Pager", "size": "" }
+  }
 }
